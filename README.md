@@ -1,2 +1,2 @@
 # jtk_pastprojects_2014
-A collection of things I did in 2014
+A collection of things I did in 2014.  Note that these use Python 3.  I wrote many of them as a longer process of investigation in the interpreter.  I usually work in ipython with pylab, meaning that a bunch of libraries are loaded automatically, most notably matplotlib and numpy.  There may be some files in here that won't run as a script without inserting a few "import" lines.  In general it shouldn't be too hard to figure out.  
